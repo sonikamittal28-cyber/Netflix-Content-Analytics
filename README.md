@@ -1,4 +1,3 @@
-# Netflix-Content-Analytics
 # Netflix Content Analytics
 
 ## Overview
